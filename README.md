@@ -1,6 +1,6 @@
 # Store SilaPay
 
-## Banco de dados: MariaDB
+No backend foi criado um container para subir o banco de dados usando SGBD MariaDB
 
 ### Executar o script para subir o bando de dados:
 
